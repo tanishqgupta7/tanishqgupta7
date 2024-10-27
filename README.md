@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanishqGupta7
+- 👋 Hi, I’m Tanishq Gupta
 - 👀 I’m interested in Cyber Security and Ethical Hacking
 - 🌱 I’m currently learning about Networking
 - 💞️ I’m looking to collaborate on Networking and Cryptography projects
