@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Ethical Hacking
 - 🌱 I’m currently learning about Networking
 - 💞️ I’m looking to collaborate on Networking and Cryptography projects
-- 📫 How to reach me www.linkedin.com/in/tanishq-gupta-aa0361296
+- 📫 How to reach me www.linkedin.com/in/tanishqgupta03
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
